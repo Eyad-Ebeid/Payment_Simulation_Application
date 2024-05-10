@@ -1,0 +1,2 @@
+-last line of code in appStart implementation isn't supposed to be part of the program but it shows that transaction is saved and acc balance is updated.
+-database isn't permanently updated. It isn't implemented using .txt files  
